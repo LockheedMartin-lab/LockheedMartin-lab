@@ -31,9 +31,6 @@ I love learning and trying out new things (like this :P ) so if you go into my r
     </a>
   </div>
 
-
-
-
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
