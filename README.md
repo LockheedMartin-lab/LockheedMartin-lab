@@ -11,7 +11,9 @@ Hi there, I'm <a href="https://github.com/LockheedMartin-lab" target="_blank" re
 I'm an aerospace engineering student 🧑🏻‍💻 and hobby photographer 📸!
 </h2> 
 
-
+<!--
+I love learning and trying out new things (like this :P ) so if you go into my repositories and some codes don't look like they usually do, don't be surprised (they'll still work though). 
+-->
 ### 🤝 Connect with me:
 
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
