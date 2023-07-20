@@ -79,7 +79,10 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 ## 📈 GitHub Stats 
 [![LockheedMartin-lab's github stats](https://github-readme-stats.vercel.app/api?username=LockheedMartin-lab)](https://github.com/LockheedMartin-lab)  
-![Gitstat](https://badgen.net/github/last-commit/LockheedMartin-lab/LockheedMartin-lab)
+![Gitstat](https://badgen.net/github/last-commit/LockheedMartin-lab/LockheedMartin-lab)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockheedMartin-lab&layout=compact)](https://github.com/LockheedMartin-lab)
+
+
 
 <details>
   <summary><h5>Specs</h5></summary>  
