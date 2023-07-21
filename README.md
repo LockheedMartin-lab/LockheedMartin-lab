@@ -1,10 +1,10 @@
 
 <p align="center">
-  <a href="https://github.com/LockheedMartin-lab" target="_blank" rel="noreferrer"><img src="https://github.com/LockheedMartin-lab/LockheedMartin-lab/blob/main/other/Banner.png?raw=true" alt="my banner"></a>
+  <a href="https://github.com/LockheedMartin-lab" target="_blank" rel="noreferrer"><img src="https://github.com/LockheedMartin-lab/LockheedMartin-lab/blob/main/other/Banner.jpg?raw=true" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://github.com/LockheedMartin-lab" target="_blank" rel="noreferrer">Alex</a> 👋
+Hi there, I'm <a href="https://github.com/LockheedMartin-lab" target="_blank" rel="noreferrer"> Martin</a> 👋
 </h3>
 
 <h2 align="center">
