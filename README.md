@@ -11,28 +11,26 @@ Hi there, I'm <a href="https://github.com/LockheedMartin-lab" target="_blank" re
 I'm an aerospace engineering student 🧑🏻‍💻 and hobby photographer 📸!
 </h2> 
 
+<!--
 I love learning and trying out new things (like this :P ) so if you go into my repositories and some codes don't look like they usually do, don't be surprised (they'll still work though). 
-
+-->
 ### 🤝 Connect with me:
 
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
   <a href="https://discord.com/users/784957872139796481/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="height: 28px">
-    </a>
+    </a> </br>
   <a href="https://steamcommunity.com/id/weezey/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" style="height: 28px">
-    </a>
+    </a></br>
   <a href="https://instagram.com/national_pictur3s/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 28px">
-    </a>
+    </a></br>
   <a href="https://lockheed-martin-6974fddcb-a5f5f792c86e8.webflow.io/contact">
     <img src="https://github.com/LockheedMartin-lab/LockheedMartin-lab/blob/main/other/a7_sony_camera.png?raw=true" alt="Website" style="height: 28px">
-    <img src="https://img.shields.io/website-up-down-green-red/http/lockheed-martin-6974fddcb-a5f5f792c86e8.webflow.io" alt="Website_up/down" style="height: 28px">
+    <img src="https://img.shields.io/website-up-down-green-red/http/lockheed-martin-6974fddcb-a5f5f792c86e8.webflow.io" alt="Website_up/down" style="height: 20px">
     </a>
   </div>
-
-
-
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -81,7 +79,10 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 ## 📈 GitHub Stats 
 [![LockheedMartin-lab's github stats](https://github-readme-stats.vercel.app/api?username=LockheedMartin-lab)](https://github.com/LockheedMartin-lab)  
-![Gitstat](https://badgen.net/github/last-commit/LockheedMartin-lab/LockheedMartin-lab)
+![Gitstat](https://badgen.net/github/last-commit/LockheedMartin-lab/LockheedMartin-lab)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockheedMartin-lab&layout=compact)](https://github.com/LockheedMartin-lab)
+
+
 
 <details>
   <summary><h5>Specs</h5></summary>  
