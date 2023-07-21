@@ -47,7 +47,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 ## 🛠️ Technical Skills and used applications  
 
-  ### Programming languages and code manager:   
+  ### Programming languages:   
   ![Go](https://img.shields.io/badge/Go-0bacd8.svg?style=for-the-badge&logo=Go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
@@ -77,12 +77,13 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) </br> </br>
 ![Matlab](https://img.shields.io/badge/Matlab-ea760d.svg?style=for-the-badge&logo=Matlab&logoColor=white)
 
-## 📈 GitHub Stats 
+<details>
+  <summary><h2>📈 Github Stats</h2></summary>  
+
 [![LockheedMartin-lab's github stats](https://github-readme-stats.vercel.app/api?username=LockheedMartin-lab)](https://github.com/LockheedMartin-lab)  
 ![Gitstat](https://badgen.net/github/last-commit/LockheedMartin-lab/LockheedMartin-lab)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockheedMartin-lab&layout=compact)](https://github.com/LockheedMartin-lab)
-
-
+</details>
 
 <details>
   <summary><h5>Specs</h5></summary>  
@@ -103,8 +104,3 @@ I love learning and trying out new things (like this :P ) so if you go into my r
   ![Lense3](https://img.shields.io/badge/Lens-90G_f2.8-e94e0a?style=for-the-badge&logo=sony&logoColor=white) </br>
   ![Drone](https://img.shields.io/badge/Drone-DJI_Mavic_3_pro-6a6d69?style=for-the-badge&logo=dji&logoColor=white)
 </details>
-
-
-
-
-
