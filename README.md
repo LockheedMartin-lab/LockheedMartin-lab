@@ -98,7 +98,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
   ![GPU](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
   ### 📷 Photography:  
-  ![Cam](https://img.shields.io/badge/Camera-Alpha_R7III-e94e0a?style=for-the-badge&logo=sony&logoColor=white) </br>
+  ![Cam](https://img.shields.io/badge/Camera-Alpha_R7V-e94e0a?style=for-the-badge&logo=sony&logoColor=white) </br>
   ![Lense1](https://img.shields.io/badge/Lens-24/105G_f4-e94e0a?style=for-the-badge&logo=sony&logoColor=white)
   ![Lense2](https://img.shields.io/badge/Lens-200/600G_F5.6/6.3-e94e0a?style=for-the-badge&logo=sony&logoColor=white)
   ![Lense3](https://img.shields.io/badge/Lens-90G_f2.8-e94e0a?style=for-the-badge&logo=sony&logoColor=white) </br>
