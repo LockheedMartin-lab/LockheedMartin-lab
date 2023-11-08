@@ -18,7 +18,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
   <a href="https://discord.com/users/784957872139796481/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="height: 28px">
+    <img src="https://dcbadge.vercel.app/api/shield/784957872139796481" alt="Discord" style="height: 28px">
     </a> 
   <a href="https://steamcommunity.com/id/weezey/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" style="height: 28px">
@@ -40,10 +40,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 - Discord Server
 
 ## 🌱 I'm currently learning
-
-- HTML
-- Go
-- Python
+[![Matlab](https://shields.io/badge/Matlab-orange?style=for-the-badge)](https://www.ptc.com/en/products/creo)
 
 ## 🛠️ Technical Skills and used applications  
 
@@ -51,6 +48,8 @@ I love learning and trying out new things (like this :P ) so if you go into my r
   ![Go](https://img.shields.io/badge/Go-0bacd8.svg?style=for-the-badge&logo=Go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
+  ![Matlab](https://shields.io/badge/Matlab-orange?style=for-the-badge)
+
 
   ### Coding applications:
   ![Visual_studio_code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -62,10 +61,14 @@ I love learning and trying out new things (like this :P ) so if you go into my r
   ![Lrc](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
   [![St](https://img.shields.io/badge/Adobe_Stock-%23000000.svg?style=for-the-badge&logo=StockAdobe&logoColor=#00C7B7)](https://stock.adobe.com/de/contributor/210538923/lockheedmartin?load_type=author&prev_url=detail)
   ![Inc](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)  
+  [![Capture One](https://shields.io/badge/Capture_One-darkblue?style=for-the-badge)](https://www.captureone.com/en) 
+![Helicon](https://shields.io/badge/Helicon-orange?style=for-the-badge)
+
 
   ### CAD:
-  <img src="https://raw.githubusercontent.com/LockheedMartin-lab/LockheedMartin-lab/5d0959f3d436888462699680f65d806ab73568fd/other/autodesk-fusion-360.svg" alt="Personal website" height="28px"/></a>
-  <img src="https://raw.githubusercontent.com/LockheedMartin-lab/LockheedMartin-lab/5d0959f3d436888462699680f65d806ab73568fd/other/catia-v5.svg" alt="Personal website" height="28px"/></a>
+[![PTC Creo](https://shields.io/badge/PTC_Creo-celery?style=for-the-badge)](https://www.ptc.com/en/products/creo)
+[![catiaV5](https://shields.io/badge/Catia_V5-navy?style=for-the-badge)](https://www.3ds.com/products-services/catia/)
+[![Autodesk](https://shields.io/badge/Autodesk_Fusion_360-orange?style=for-the-badge)](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription)
 
   ### Website building:  
   <a href="https://lockheed-martin-6974fddcb-a5f5f792c86e8.webflow.io/"><img src="https://raw.githubusercontent.com/LockheedMartin-lab/LockheedMartin-lab/5d0959f3d436888462699680f65d806ab73568fd/other/webflow.svg" alt="Personal website" height="28px"/></a>
@@ -75,7 +78,6 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) </br> </br>
-![Matlab](https://img.shields.io/badge/Matlab-ea760d.svg?style=for-the-badge&logo=Matlab&logoColor=white)
 
 <details>
   <summary><h2>📈 Github Stats</h2></summary>  
