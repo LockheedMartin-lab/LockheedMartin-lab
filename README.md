@@ -61,7 +61,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
   ![Lrc](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
   [![St](https://img.shields.io/badge/Adobe_Stock-%23000000.svg?style=for-the-badge&logo=StockAdobe&logoColor=#00C7B7)](https://stock.adobe.com/de/contributor/210538923/lockheedmartin?load_type=author&prev_url=detail)
   ![Inc](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)  
-  [![Capture One](https://shields.io/badge/Capture_One-darkblue?style=for-the-badge)](https://www.captureone.com/en) 
+  [![Capture One](https://shields.io/badge/Capture_One_Pro-darkblue?style=for-the-badge)](https://www.captureone.com/en) 
 ![Helicon](https://shields.io/badge/Helicon-orange?style=for-the-badge)
 
 
