@@ -18,7 +18,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
   <a href="https://discord.com/users/784957872139796481/">
-    <img src="https://dcbadge.vercel.app/api/shield/784957872139796481" alt="Discord" style="height: 28px">
+    <img src="https://dcbadge.limes.pink/api/shield/784957872139796481" alt="Discord" style="height: 28px">
     </a> 
   <a href="https://steamcommunity.com/id/weezey/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" style="height: 28px">
@@ -36,9 +36,9 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 ## 🔭 I'm currently working on
 
+- Discord Bot (Tomoe)
 - Personal website
 - Discord Server
-- Discord Bot (Tomoe)
 
 ## 🌱 I'm currently learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -76,10 +76,14 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 
 ## 🚀 What's next
+
+- Building an AI-Chatbot (down the line, it'll take some time xD )
+
+<!--
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) </br> </br>
-
+-->
 <details>
   <summary><h2>📈 Github Stats</h2></summary>  
 
