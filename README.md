@@ -12,7 +12,7 @@ I'm an aerospace engineering student 🧑🏻‍💻 and hobby photographer 📸
 </h2> 
 
 <!--
-I love learning and trying out new things (like this :P ) so if you go into my repositories and some codes don't look like they usually do, don't be surprised (they'll still work though). 
+I love learning and trying out new things (like this :P ) so if you go into my repositories and some codes don't look like they usually do, don't be surprised (they'll still work though, if they don't lmk xD ). 
 -->
 ### 🤝 Connect with me:
 
@@ -38,9 +38,10 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 - Personal website
 - Discord Server
+- Discord Bot (Tomoe)
 
 ## 🌱 I'm currently learning
-[![Matlab](https://shields.io/badge/Matlab-orange?style=for-the-badge)](https://www.ptc.com/en/products/creo)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 ## 🛠️ Technical Skills and used applications  
 
@@ -62,7 +63,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
   [![St](https://img.shields.io/badge/Adobe_Stock-%23000000.svg?style=for-the-badge&logo=StockAdobe&logoColor=#00C7B7)](https://stock.adobe.com/de/contributor/210538923/lockheedmartin?load_type=author&prev_url=detail)
   ![Inc](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)  
   [![Capture One](https://shields.io/badge/Capture_One_Pro-darkblue?style=for-the-badge)](https://www.captureone.com/en) 
-![Helicon](https://shields.io/badge/Helicon-orange?style=for-the-badge)
+  ![Helicon](https://shields.io/badge/Helicon-orange?style=for-the-badge)
 
 
   ### CAD:
@@ -86,23 +87,20 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 ![Gitstat](https://badgen.net/github/last-commit/LockheedMartin-lab/LockheedMartin-lab)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockheedMartin-lab&layout=compact)](https://github.com/LockheedMartin-lab)
 </details>
-
+<!--
 <details>
   <summary><h5>Specs</h5></summary>  
-
   ### 💻 Laptop:  
   ![OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![Test](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
-
   ### 🖥️ PC:  
   ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_1800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
   ![GPU](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
   ### 📷 Photography:  
   ![Cam](https://img.shields.io/badge/Camera-Alpha_R7RV-e94e0a?style=for-the-badge&logo=sony&logoColor=white) </br>
   ![Lense1](https://img.shields.io/badge/Lens-24/105G_f4-e94e0a?style=for-the-badge&logo=sony&logoColor=white)
   ![Lense2](https://img.shields.io/badge/Lens-200/600G_F5.6/6.3-e94e0a?style=for-the-badge&logo=sony&logoColor=white)
   ![Lense3](https://img.shields.io/badge/Lens-90G_f2.8-e94e0a?style=for-the-badge&logo=sony&logoColor=white) </br>
-  ![Drone](https://img.shields.io/badge/Drone-DJI_Mavic_3_pro-6a6d69?style=for-the-badge&logo=dji&logoColor=white)
-</details>
+  ![Drone](https://img.shields.io/badge/Drone-DJI_Mavic_3_pro-6a6d69?style=for-the-badge&logo=dji&logoColor=white)</details>
+--!>
