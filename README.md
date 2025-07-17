@@ -131,3 +131,17 @@ I love learning and trying out new things (like this :P ) so if you go into my r
   ![Lense3](https://img.shields.io/badge/Lens-90G_f2.8-e94e0a?style=for-the-badge&logo=sony&logoColor=white) </br>
   ![Drone](https://img.shields.io/badge/Drone-DJI_Mavic_3_pro-6a6d69?style=for-the-badge&logo=dji&logoColor=white)</details>
 --!>
+
+## Licence
+Just use it with common sence, if you use it write down where you got it from (the git link) and mention that others should do the same. 
+
+<pre>
+    <code "color:white;background-color:black">
+        ©️ LockheedMartn-lab
+        GNU, GPLV3 License
+        Repository: https://github.com/LockheedMartin-lab/LockheedMartin-lab/
+    </code>
+</pre>
+
+
+<bl
