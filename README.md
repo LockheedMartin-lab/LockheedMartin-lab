@@ -142,6 +142,3 @@ Just use it with common sence, if you use it write down where you got it from (t
         Repository: https://github.com/LockheedMartin-lab/LockheedMartin-lab/
     </code>
 </pre>
-
-
-<bl
