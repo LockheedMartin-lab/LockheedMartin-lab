@@ -19,7 +19,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
   <a href="https://discord.com/users/784957872139796481/">
     <img src="https://dcbadge.limes.pink/api/shield/784957872139796481" alt="Discord" style="height: 28px">
-    </a> 
+    </a>  
   <a href="https://steamcommunity.com/id/weezey/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" style="height: 28px">
     </a>
@@ -36,7 +36,8 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 
 ## 🔭 I'm currently working on
 
-- Discord Bot (Tomoe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LockheedMartin-lab&repo=Tomoe&icon_color=e74c3c&bg_color=151515&text_color=fff)](https://github.com/LockheedMartin-lab/Tomoe)
+
 - Personal website
 - Discord Server
 
