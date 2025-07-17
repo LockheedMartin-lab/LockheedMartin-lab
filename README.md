@@ -88,9 +88,31 @@ I love learning and trying out new things (like this :P ) so if you go into my r
 <details>
   <summary><h2>📈 Github Stats</h2></summary>  
 
-[![LockheedMartin-lab's github stats](https://github-readme-stats.vercel.app/api?username=LockheedMartin-lab)](https://github.com/LockheedMartin-lab)  
+
 ![Gitstat](https://badgen.net/github/last-commit/LockheedMartin-lab/LockheedMartin-lab)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockheedMartin-lab&layout=compact)](https://github.com/LockheedMartin-lab)
+
+<div style="display: flex; gap: 10px; align-items: stretch;">
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/LockheedMartin-lab" target="_blank" style="flex: 1;">
+    <div style="height: 200px; display: flex; align-items: center; justify-content: center; background-color: #fff;">
+      <img src="https://github-readme-stats.vercel.app/api?username=LockheedMartin-lab" 
+           alt="LockheedMartin-lab's GitHub Stats" 
+           style="height: 100%; object-fit: contain;">
+    </div>
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/LockheedMartin-lab" target="_blank" style="flex: 1;">
+    <div style="height: 200px; display: flex; align-items: center; justify-content: center; background-color: #fff;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockheedMartin-lab&layout=compact" 
+           alt="Top Languages" 
+           style="height: 100%; object-fit: contain;">
+    </div>
+  </a>
+
+</div>
+
 </details>
 <!--
 <details>
