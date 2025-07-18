@@ -32,7 +32,16 @@ I love learning and trying out new things (like this :P ) so if you go into my r
     </a>
   </div>
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+  💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+<h3>My Organisations: </h3>
+
+* [Tomoe Discord bot](https://github.com/Tomoe/)
+* [Discord related projects](https://github.com/LockheedMartin-discord/)
+* [Future Ai related projects](https://github.com/LockheedMartin-AI/)
+* [Gaming related projects](https://github.com/LockheedMartin-games/)
+* [Edu related projects](https://github.com/LockheedMartin-edu/)
+
 
 ## 🔭 I'm currently working on
 
@@ -102,7 +111,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
     </div>
   </a>
 
-  <!-- Top Languages -->
+  <!-- Top Languages 
   <a href="https://github.com/LockheedMartin-lab" target="_blank" style="flex: 1;">
     <div style="height: 200px; display: flex; align-items: center; justify-content: center; background-color: #fff;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockheedMartin-lab&layout=compact" 
@@ -112,7 +121,7 @@ I love learning and trying out new things (like this :P ) so if you go into my r
   </a>
 
 </div>
-
+-->
 </details>
 <!--
 <details>
